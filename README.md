@@ -27,8 +27,6 @@ Explore them on [**CodebaseShow**](https://codebase.show/projects/realworld).
 Or you can [view upcoming implementations (WIPs)](https://github.com/dragonmstr/realworld/discussions/categories/wip-implementations).
 
 # Learn more
-
-- ["Introducing RealWorld 🙌"](https://medium.com/@ericsimons/introducing-realworld-6016654d36b5) by Eric Simons
 - Every tutorial is built against the same [API spec](api/) to ensure modularity of every frontend & backend
 - Every frontend utilizes the same handcrafted [Bootstrap 4 theme](https://github.com/dragonmstr/conduit-bootstrap-template) for identical UI/UX
 - There is a hosted version of the backend API available for public usage, no API keys are required
