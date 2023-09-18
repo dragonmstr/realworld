@@ -146,7 +146,7 @@
     "url-loader": "^4.1.1",
     "vite": "4.3.9",
     "vite-plugin-eslint": "1.8.1",
-    "vite-tsconfig-paths": "4.2.0",
+    "vite-tsconfig-paths": "4.2.1",
     "vitest": "0.31.0",
     "webpack": "^5.75.0",
     "webpack-merge": "^5.8.0"
